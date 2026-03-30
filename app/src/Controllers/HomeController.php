@@ -6,6 +6,6 @@ class HomeController
 {
     public function index()
     {
-        echo "Welcome home!";
+        require __DIR__ . '/../Views/home.php';
     }
 }
