@@ -8,4 +8,9 @@ class HomeController
     {
         require __DIR__ . '/../Views/home.php';
     }
+
+    public function login()
+    {
+        require __DIR__ . '/../Views/user/login.php';
+    }
 }
