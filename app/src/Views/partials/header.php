@@ -4,13 +4,13 @@
 
         <ul class="header-links-container">
             <li><a href="/">Home</a></li>
-            <li><a href="/">Menu's</a></li>
-            <li><a href="/tickets">Pizza</a></li>
-            <li><a href="/jazz">Ribs</a></li>
-            <li><a href="/yummy">Burgers</a></li>
-            <li><a href="/history">Side Dishes</a></li>
-            <li><a href="/stories">Desserts</a></li> 
-            <li><a href="/dance">Drinks</a></li>
+            <li><a href="/menu">Menu's</a></li>
+            <li><a href="/pizza">Pizza</a></li>
+            <li><a href="/rib">Ribs</a></li>
+            <li><a href="/burger">Burgers</a></li>
+            <li><a href="/side">Side Dishes</a></li>
+            <li><a href="/dessert">Desserts</a></li> 
+            <li><a href="/drink">Drinks</a></li>
         </ul>
 
         <div class="header-user-section">
@@ -22,7 +22,7 @@
 
             <a href="/cart" class="header-cart">
                 <i class="bi bi-cart3"></i>
-                <span class="cart-badge">0</span>
+                <span class="header-cart-number">0</span>
             </a>
         </div>
     </div>
